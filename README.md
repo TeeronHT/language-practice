@@ -6,6 +6,7 @@ Various languages I will slowly be working towards learning:<br />
 - [ ] GoLang<br />
 - [ ] SQL<br />
 - [ ] HTML/CSS<br />
+- [ ] R<br />
 - [ ] Swift<br />
 - [ ] Dart<br />
 - [ ] C<br />
