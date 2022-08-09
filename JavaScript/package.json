@@ -4,12 +4,14 @@
   "description": "Using Blake's crash course on JS",
   "main": "index.js",
   "scripts": {
+    "start": "node_modules/.bin/nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Teeron Hajebi Tabrizi <teeron@hajebi.net>",
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.18.1",
+    "nodemon": "^2.0.19",
     "twig": "^1.15.4"
   }
 }
